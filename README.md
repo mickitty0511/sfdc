@@ -1,4 +1,4 @@
-apexBatch.cls has a sample batch code where queried opportunities records are updated.
+SendEmailsAfterDmlBatch.cls has a sample batch code where queried opportunities records are updated.
 
 During executing its "start" method, programs store each error on updating opportunities.
 

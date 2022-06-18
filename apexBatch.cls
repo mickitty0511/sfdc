@@ -1,7 +1,7 @@
 /**
  * @description       : [Ver.1] apexBatch sending error logs after updating records
  * @author            : M. Y.
- * @last modified on  : 06-18-2022
+ * @last modified on  : 06-19-2022
  * @last modified by  : M. Y.
 **/
 
