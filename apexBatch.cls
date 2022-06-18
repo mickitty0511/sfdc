@@ -1,10 +1,3 @@
-/**
- * @description       : 
- * @author            : ChangeMeIn@UserSettingsUnder.SFDoc
- * @group             : 
- * @last modified on  : 06-18-2022
- * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
-**/
 //Database.Statefulがあると、execute中に操作した変数に情報が保存された状態で参照できる。
 public class apexBatch implements Database.Batchable<sObject>, Database.Stateful{
    	Map<Id, String> errorMap;
